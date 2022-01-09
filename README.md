@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi,this is Berke.
+This is Berke.
 
 I'm a second year CSE student at IZTECH.
 
