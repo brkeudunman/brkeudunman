@@ -11,7 +11,7 @@ I'm **Berke Udunman**.
 - **Frontend Development**: React, JavaScript, Ant Design, TailwindCSS
 - **Mobile Development**: Flutter, Dart
 - **Machine Learning**: Python, Scikit Learn, TensorFlow
--- **Surfing**: Catching waves whenever I can 🏄
+- **Surfing**: Catching waves whenever I can 🏄
 
 🚀 I aim to integrate and optimize web and mobile technologies with machine learning applications in the future.
 
