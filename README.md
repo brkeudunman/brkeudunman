@@ -17,4 +17,4 @@ I'm **Berke Udunman**.
 
 📚 In my free time, I also like to stay updated on the latest trends in tech and work on personal projects.
 
-Check out my [repositories](https://github.com/BerkeUdunman) to see what I've been working on!
+Check out my [repositories](https://github.com/brkeudunman) to see what I've been working on!
