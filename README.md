@@ -10,7 +10,7 @@ I'm **Berke Udunman**.
 
 - **Frontend Development**: React, JavaScript and NextJS
 - **Mobile Development**: Flutter
-- **Machine Learning**: Python, Scikit Learn, Pytorch
+- **Artificial Intelligence**: AI Agents, MCP Servers, NLP
 - **Surfing**: Catching waves whenever I can 🏄
 
 🚀 I aim to integrate and optimize web and mobile technologies with machine learning applications in the future.
