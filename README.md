@@ -2,7 +2,7 @@
 
 I'm **Berke Udunman**.
 
-🎓 I'm currently a MSc Student at **İzmir Institute of Technology (IZTECH)**.
+🎓 I'm currently a MSc Student at **İzmir Institute of Technology (IZTECH)** and currently working at **Eteration**.
 
 💻 I'm passionate about software development, with experience in various technologies and frameworks.
 
